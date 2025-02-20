@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    index
+    <WelcomeMessage />
   </div>
 </template>
 
